@@ -38,12 +38,10 @@ git clone https://github.com/martinekong/semester-project-1.git
 2. Open the project in you code editor
 
 ## Contact
-
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 If you have any questions or feedback, feel free to reach out:
 
-[My LinkedIn page](www.linkedin.com/in/martine-kongsrud)
-[My email](martinekongrus@outlook.com)
+LinkedIn: www.linkedin.com/in/martine-kongsrud
+Email: martinekongrus@outlook.com
 
 ## Acknowledgments
 
