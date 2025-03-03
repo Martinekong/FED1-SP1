@@ -1,9 +1,11 @@
 # semester-project-1
+
 Repository for semester project 1
 
 # Semester Project 1 - Science Museum
 
 ![image](<img width="1017" alt="science-museum" src="https://github.com/user-attachments/assets/6ffa4835-182f-42af-b0aa-ff72630004ab" />)
+![Science Museum screenshot](science-museum.png)
 
 A simple overview of the use/purpose of the project.
 
