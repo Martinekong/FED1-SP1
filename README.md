@@ -40,8 +40,8 @@ git clone https://github.com/martinekong/semester-project-1.git
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
-LinkedIn: www.linkedin.com/in/martine-kongsrud
-Email: martinekongrus@outlook.com
+- LinkedIn: www.linkedin.com/in/martine-kongsrud
+- Email: martinekongsrud@outlook.com
 
 ## Acknowledgments
 
