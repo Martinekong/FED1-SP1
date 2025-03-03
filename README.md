@@ -1,75 +1,55 @@
-# semester-project-1
-
-Repository for semester project 1
-
 # Semester Project 1 - Science Museum
 
-![image](<img width="1017" alt="science-museum" src="https://github.com/user-attachments/assets/6ffa4835-182f-42af-b0aa-ff72630004ab" />)
-![Science Museum screenshot](science-museum.png)
+![Science Museum screenshot](science-museum.jpeg)
 
-A simple overview of the use/purpose of the project.
+A modern, accessible, and responsive website for the **Community Science Museum**, designed to engage young audiences and families. The project focuses on delivering a user-friendly and visually appealing experience that excites visitors about science and encourages them to visit the museum.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+The **Community Science Museum** website was developed as part of a semester project to simulate a real-world client brief. The goal was to create an engaging, informative, and accessible website for a science museum aimed at children (ages 7-15) and families.
 
-You can add some bullet points if you'd like to:
+The website includes the following pages:
 
-- List item 1
-- List item 2
-- List item 3
+- **Home page** – An introduction to the museum with key information and imagery.
+- **Exhibitions page** – A showcase of current exhibitions and upcoming events.
+- **Contributions page** – Information on how visitors can contribute to the museum.
+- **Contact page** – Museum address, phone number, opening hours, and a contact form.
+- **Privacy Policy & Terms and Conditions pages** – Legal documentation for visitors.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+This project was built using:
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- **HTML5**
+- **CSS3 (Vanilla CSS, no frameworks)**
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+To get a local copy of the project up and running:
 
-1. Clone the repo:
-
-```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-
-2. Install the dependencies:
-
-```
-npm install
-```
-
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
+1. Clone the repository:
 
 ```bash
-npm run start
+git clone https://github.com/martinekong/semester-project-1.git
 ```
 
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+2. Open the project in you code editor
 
 ## Contact
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+If you have any questions or feedback, feel free to reach out:
 
-[My Twitter page](www.twitter.com)
-
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+[My LinkedIn page](www.linkedin.com/in/martine-kongsrud)
+[My email](martinekongrus@outlook.com)
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+Special thanks to:
+
+- Noroff for the project brief and resources.
+- Teachers for valuable feedback and discussions.
+- Freepik for the images
+- SVG repo for all icons
