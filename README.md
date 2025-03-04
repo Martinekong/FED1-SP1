@@ -37,11 +37,17 @@ git clone https://github.com/martinekong/semester-project-1.git
 
 2. Open the project in you code editor
 
+## Deployment
+
+This site is deployed using GitHub pages:  
+🔗 [Science Museum website](https://martinekong.github.io/semester-project-1/)
+
 ## Contact
+
 If you have any questions or feedback, feel free to reach out:
 
-- LinkedIn: www.linkedin.com/in/martine-kongsrud
-- Email: martinekongsrud@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/martine-kongsrud)
+- Email: [martinekongrus@outlook.com](mailto:martinekongsrud@outlook.com)
 
 ## Acknowledgments
 
