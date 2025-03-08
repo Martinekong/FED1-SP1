@@ -5,6 +5,11 @@
   padding: 0;
 }
 
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
 main {
   display: flex;
   flex-direction: column;
@@ -122,15 +127,14 @@ header {
 .header-nav {
   position: absolute;
   top: 100px;
-  right: 0;
+  right: -100vw;
   bottom: 0;
   background-color: var(--primary-color);
   display: flex;
   flex-direction: column;
   align-items: end;
   opacity: 0;
-  transform: translateX(100%);
-  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  transition: right 0.3s ease-in-out, opacity 0.3s ease-in-out;
   z-index: 100;
 }
 
@@ -140,7 +144,7 @@ header {
 }
 
 .header-nav.show {
-  transform: translateX(0);
+  right: 0;
   opacity: 1;
 }
 
