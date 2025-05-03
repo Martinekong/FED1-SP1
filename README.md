@@ -40,7 +40,7 @@ git clone https://github.com/martinekong/semester-project-1.git
 ## Deployment
 
 This site is deployed using GitHub pages:  
-🔗 [Science Museum website](https://martinekong.github.io/semester-project-1/)
+🔗 [Science Museum website](https://martinekong.github.io/FED1-SP1/)
 
 ## Contact
 
